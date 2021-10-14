@@ -1,0 +1,6 @@
+#!/bin/bas
+h
+if [[ -d "Linux" ]]
+then
+  echo "course"
+fi
